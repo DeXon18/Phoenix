@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channel>
+	<title>WGMods</title>
+	<link>https://wgmods.net</link>
+	<description>News</description>
+	<language>en</language>
+	<pubDate>00:00 01.06.2018</pubDate>
+	<ttl>60</ttl>
+
+	<image>
+		<url>https://wgmods.net</url>
+		<title>Login</title>
+		<link>https://wgmods.net</link>
+	</image>
+
+	<item>
+		<title>DeX Mod Project</title>
+		<link>https://wgmods.net/487/</link>
+		<description><![CDATA[<div> Follow the mod pack's updates and do send us a feedback on our page at the WGMods portal! <br/> DeX</div>]]></description>
+	</item>
+</channel>
