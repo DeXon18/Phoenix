@@ -363,9 +363,9 @@ e[X]tended [V]isualization [M]od
 ║		║	╠ Arcade 300m. / Arty 400m.
 ║		║   	╚ Arcade 400m. / Arty 400m.
 ║		╚ Sensibilidad del scroll en vista arcade
-║		    ╠ Baja (5) por defecto
-║		    ╠ Media (10)
-║		    ╚ Alta (15)
+║			╠ Baja (5) por defecto
+║			╠ Media (10)
+║		   	╚ Alta (15)
 ║
 ╠ Mods With out XVM -- En Desarrollo --
 
