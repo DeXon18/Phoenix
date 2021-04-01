@@ -1,3 +1,1 @@
 # Phoenix
-
-Are you bored of playing World of Tanks in user mode? Of not progressing as fast as your friends? In our project, we have created a modified version of e[X]tended [V]isualization [M]od, adapting it to players for a better gameplay. Moreover, we have included a large selection of customizable mods in three languages (Spanish, English, Italian and Romanian), so that you can play better and progress faster.
