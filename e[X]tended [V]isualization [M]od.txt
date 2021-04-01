@@ -323,9 +323,8 @@ e[X]tended [V]isualization [M]od
 ║	║	║	║	╠ 5
 ║	║	║	║	╠ 10
 ║	║	║	║	╚ 15
-║	║	║	╚ Estilo
+║	║	║	╚ Estilos de registros
 ║	║	║		╠ XVM (predeterminado)
-║	║	║		╠ Xft' Integrated
 ║	║	║		╚ Personalizado
 ║	║	║			╠ Resumen de daños
 ║	║	║			╠ Título Impactos #0
