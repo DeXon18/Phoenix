@@ -107,7 +107,7 @@ e[X]tended [V]isualization [M]od
 ║	║			╠ Rojo
 ║	║			╠ Morado
 ║	║			╚ Naranja
-║	╚ Resultados de batalla
+║	╚ Resultados de batalla (Revisar Opciones)
 ║		╠ Página de inicio
 ║		║	╠ Puntuación personal
 ║		║	╠ Puntuación del equipo
@@ -134,8 +134,8 @@ e[X]tended [V]isualization [M]od
 ║	╠ Paneles & Ventanas (En Batalla)
 ║	║	╠ Configuración por XVM Team
 ║	║	╠ Configuración por Webium
-║	║	╠ Configuración por Solo 
-║	║	╠ Configuración por QuickBaby 
+║	║	╠ Configuración por Solo
+║	║	╠ Configuración por QuickBaby
 ║	║	╚ Configuración personalizada
 ║	║		╠ Ventana de carga de batalla
 ║	║		║	╠ Ocultar iconos de escuadrones
@@ -145,7 +145,7 @@ e[X]tended [V]isualization [M]od
 ║	║		║	╠ Mostrar banderas de países
 ║	║		║	╠ Mostrar iconos de usuario XVM
 ║	║		║	╚ Mostrar estadísticas
-║	║		╠ Ventana en batalla (TAB) 
+║	║		╠ Ventana en batalla (Al pulsar TAB)
 ║	║		║	╠ Ocultar iconos de escuadrones
 ║	║		║	╠ Ocultar iconos de escuadrones
 ║	║		║	╠ Ocultar nivel del tanque
@@ -321,7 +321,8 @@ e[X]tended [V]isualization [M]od
 ║	║	║	╠ Nº de líneas
 ║	║	║	║	╠ 0 (Solo encabezado)
 ║	║	║	║	╠ 5
-║	║	║	║	╚ 10
+║	║	║	║	╠ 10
+║	║	║	║	╚ 15
 ║	║	║	╚ Estilo
 ║	║	║		╠ XVM (predeterminado)
 ║	║	║		╠ Xft' Integrated
@@ -343,7 +344,7 @@ e[X]tended [V]isualization [M]od
 ║	║	║	╠ 
 ║	║	║	╚ 
 ║	║	╠ Contadores de eficiencia
-║	║	║	╠ Arriba 
+║	║	║	╠ Arriba
 ║	║	║	╠ Abajo
 
 
