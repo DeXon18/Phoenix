@@ -339,9 +339,6 @@ e[X]tended [V]isualization [M]od
 ║	║	║			╠ Iconos de impacto/muerte
 ║	║	║			╠ Nombre del tanque
 ║	║	║			╚ Nombre del jugador
-║	║	╠ Daños recibidos ??
-║	║	║	╠ 
-║	║	║	╚ 
 ║	║	╠ Contadores de eficiencia
 ║	║	║	╠ Arriba
 ║	║	║	╚ Abajo
