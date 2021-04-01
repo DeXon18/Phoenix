@@ -2,11 +2,11 @@ e[X]tended [V]isualization [M]od
 ╠ Opciones de desarrollo
 ╠ Ajustes de la pantalla de logueo
 ║	╠ Login automático
-║	╠ Mostrar caga de los servidores
+║	╠ Mostrar carga de los servidores
 ║	╚ Mostrar el ping del servidor
 ║		╚ Tasa de refresco
-║			╠ 2 Segundos
-║			╚ 5 Segundo
+║			╠ 2 segundos
+║			╚ 5 segundos
 ╠ Ajustes de la pantalla del garaje
 ║	╠ Restaurar el tipo de batalla al cambiar de servidor
 ║	╠ Mostrar ping del servidor
@@ -14,7 +14,7 @@ e[X]tended [V]isualization [M]od
 ║	║	╠ Formato 12h
 ║	║	╚ Formato 24h
 ║	╠ Notificaciones del juego
-║	║	╠ Contadores del Menu
+║	║	╠ Contadores del menú
 ║	║	║	╠ Depósito
 ║	║	║	╠ Tienda
 ║	║	║	╠ Misiones
@@ -33,10 +33,10 @@ e[X]tended [V]isualization [M]od
 ║	║	╠ Ocultar botón "Programa de Referidos"
 ║	║	╠ Ocultar chat "General"
 ║	║	╠ Ocultar tanque premium
-║	║	╠ Ocultar Batalla por rankings
+║	║	╠ Ocultar batalla por rankings
 ║	║	╠ Ocultar ventana de emblemas
 ║	║	╠ Ocultar banner de eventos varios
-║	║	╠ Oculta Widget Misiones diarias
+║	║	╠ Ocultar widget misiones diarias
 ║	║	╚ Inteligencia de combate
 ║	║		╠ Ocultar mensajes PopUp
 ║	║		╚ Ocultar contador no leído
@@ -44,7 +44,7 @@ e[X]tended [V]isualization [M]od
 ║	║	╠ Habilitar candado para oro
 ║	║	╠ Habilitar candado para XP libre
 ║	║	╠ Habilitar candado para bonos
-║	║	╠ Cargar automaticamente la tripulación
+║	║	╠ Cargar automáticamente la tripulación
 ║	║	╚ Marcar vehículo no listo si la munición es baja
 ║	║		╚ Por debajo de este % se considera baja munición
 ║	║			╠ 10%
@@ -64,7 +64,7 @@ e[X]tended [V]isualization [M]od
 ║	║	╠ Ocultar recuperar vehículo
 ║	║	╠ Ocultar los tooltips de los tanques
 ║	║	╠ Ocultar estadísticas que aparece al pasar el ratón por encima
-║	║	╠ Ocultar Puntos de progresión del Pase de Batalla
+║	║	╠ Ocultar puntos de progresión del Pase de Batalla
 ║	║	╠ Tipo de celda
 ║	║	║	╠ Normal
 ║	║	║	╚ Pequeña
@@ -88,7 +88,7 @@ e[X]tended [V]isualization [M]od
 ║	║	║		╚ Mostrar porcentaje para excelencia
 ║	║	╚ Complementos
 ║	║		╠ Fondo transparente
-║	║		╠ Mostrar complementos solo en el tanque selecionado
+║	║		╠ Mostrar estadíticas solo en el tanque selecionado
 ║	║		╠ Identificación por colores
 ║	║		╠ Ordenar por
 ║	║		║	╠ Por defecto
@@ -171,26 +171,26 @@ e[X]tended [V]isualization [M]od
 ║	║			║	╚ Transparente 100%
 ║	║			╠ Panel Corto
 ║	║			║	╠ Mostrar barra de vida
-║	║			║	╠ Fina
-║	║			║	╠ Gruesa
+║	║			║	║	╠ Fina
+║	║			║	║	╚ Gruesa
 ║	║			║	╚ Mostrar banderas idioma
 ║	║			╠ Panel Mediano
 ║	║			║	╠ Mostrar barra de vida
-║	║			║	╠ Fina
-║	║			║	╠ Gruesa
+║	║			║	║	╠ Fina
+║	║			║	║	╚ Gruesa
 ║	║			║	╚ Mostrar banderas idioma
 ║	║			╠ Panel Mediano 2
 ║	║			║	╠ Mostrar barra de vida
-║	║			║	╠ Fina
-║	║			║	╠ Gruesa
+║	║			║	║	╠ Fina
+║	║			║	║	╚ Gruesa
 ║	║			║	╠ Mostrar banderas idioma
-║	║			║	╠ Mostrar
-║	║			║	╠ Tanque
-║	║			║	╚ Nombre de usuario
+║	║			║	╚ Mostrar
+║	║			║		╠ Tanque
+║	║			║		╚ Nombre de usuario
 ║	║			╠ Panel Largo
 ║	║			║	╠ Mostrar barra de vida
-║	║			║	╠ Fina
-║	║			║	╠ Gruesa
+║	║			║	║	╠ Fina
+║	║			║	║	╚ Gruesa
 ║	║			║	╠ Mostrar banderas idioma
 ║	║			║	╠ Mostrar
 ║	║			║	║	╠ Nombre de usuario
@@ -273,11 +273,11 @@ e[X]tended [V]isualization [M]od
 ║	║		║	╠ Línea de dirección de puntos
 ║	║		║	╠ Limitador de angulo max de cañon
 ║	║		║	╠ Círculos autodetección
-║	║		║	║	╠ Circulo de 50m
+║	║		║	║	╠ Círculo de 50m
 ║	║		║	║	║	╠ Blanco
 ║	║		║	║	║	╠ Verde
 ║	║		║	║	║	╚ Amarillo
-║	║		║	║	╠ Circulo de alcance
+║	║		║	║	╠ Círculo de alcance
 ║	║		║	║	║	╠ Verde
 ║	║		║	║	║	╠ Azul
 ║	║		║	║	║	╚ Naranja
@@ -289,7 +289,7 @@ e[X]tended [V]isualization [M]od
 ║	║		║	║		╠ Rojo
 ║	║		║	║		╠ Azul
 ║	║		║	║		╚ Verde
-║	║		║	╚ Circulos adicionales
+║	║		║	╚ Círculos adicionales
 ║	║		║		╠ Alcance máximo de fuego para la artillería
 ║	║		║		╚ Alcance máximo de disparo para la ametralladora
 ║	║		╠ Zoom
