@@ -1,0 +1,366 @@
+e[X]tended [V]isualization [M]od
+╠ Opciones de desarrollo
+╠ Ajustes de la pantalla de logueo
+║	╠ Login automático
+║	╠ Mostrar caga de los servidores
+║	╚ Mostrar el ping del servidor
+║		╚ Tasa de refresco
+║			╠ 2 Segundos
+║			╚ 5 Segundo
+╠ Ajustes de la pantalla del garaje
+║	╠ Restaurar el tipo de batalla al cambiar de servidor
+║	╠ Mostrar ping del servidor
+║	╠ Mostrar reloj
+║	║	╠ Formato 12h
+║	║	╚ Formato 24h
+║	╠ Notificaciones del juego
+║	║	╠ Contadores del Menu
+║	║	║	╠ Depósito
+║	║	║	╠ Tienda
+║	║	║	╠ Misiones
+║	║	║	╠ Campañas
+║	║	║	╠ Hoja de servicio
+║	║	║	╠ Barracones
+║	║	║	╚ Clanes
+║	║	╚ Formato de las notificaciones
+║	║		╠ Por defecto
+║	║		╠ Parpadeo
+║	║		╚ Sin notificaciones
+║	╠ Ajustes ADS
+║	║	╠ Ocultar hangares "Premium" (Solo en eventos)
+║	║	╠ Ocultar botón "Comprar premium"
+║	║	╠ Ocultar tienda premium
+║	║	╠ Ocultar botón "Programa de Referidos"
+║	║	╠ Ocultar chat "General"
+║	║	╠ Ocultar tanque premium
+║	║	╠ Ocultar Batalla por rankings
+║	║	╠ Ocultar ventana de emblemas
+║	║	╠ Ocultar banner de eventos varios
+║	║	╠ Oculta Widget Misiones diarias
+║	║	╚ Inteligencia de combate
+║	║		╠ Ocultar mensajes PopUp
+║	║		╚ Ocultar contador no leído
+║	╠ Seguridad
+║	║	╠ Habilitar candado para oro
+║	║	╠ Habilitar candado para XP libre
+║	║	╠ Habilitar candado para bonos
+║	║	╠ Cargar automaticamente la tripulación
+║	║	╚ Marcar vehículo no listo si la munición es baja
+║	║		╚ Por debajo de este % se considera baja munición
+║	║			╠ 10%
+║	║			╠ 20%
+║	║			╚ 30%
+║	╠ Hoja de servicio
+║	║	╠ Mostrar solo los vehículos del garaje
+║	║	╚ Página inicial
+║	║		╠ Sumario
+║	║		╠ Premios y distinciones
+║	║		╠ Estadísticas
+║	║		╠ Vehículos
+║	║		╚ Salón de la Fama
+║	╠ Multi-tank carrusel
+║	║	╠ Ocultar comprar vehículo
+║	║	╠ Ocultar comprar un espacio
+║	║	╠ Ocultar recuperar vehículo
+║	║	╠ Ocultar los tooltips de los tanques
+║	║	╠ Ocultar estadísticas que aparece al pasar el ratón por encima
+║	║	╠ Ocultar Puntos de progresión del Pase de Batalla
+║	║	╠ Tipo de celda
+║	║	║	╠ Normal
+║	║	║	╚ Pequeña
+║	║	╠ Número de filas
+║	║	║	╠ Utilizar las opciones del juego
+║	║	║	╠ 2 filas de tanques
+║	║	║	╠ 3 filas de tanques
+║	║	║	╠ 4 filas de tanques
+║	║	║	╚ 5 filas de tanques
+║	║	╠ Estadisticas por tanque
+║	║	║	╠ Mostrar % victorias (Win rate)
+║	║	║	╠ Mostrar número batallas
+║	║	║	╠ Mostar WN8 eff
+║	║	║	╠ Mostrar kill rating
+║	║	║	╠ Mostrar hit rating
+║	║	║	╠ Mostrar daño medio
+║	║	║	╠ Mostrar rango de partida
+║	║	║	╚ Mostrar marca de excelencia
+║	║	║		╠ Icono
+║	║	║		╠ Símbolos
+║	║	║		╚ Mostrar porcentaje para excelencia
+║	║	╚ Complementos
+║	║		╠ Fondo transparente
+║	║		╠ Mostrar complementos solo en el tanque selecionado
+║	║		╠ Identificación por colores
+║	║		╠ Ordenar por
+║	║		║	╠ Por defecto
+║	║		║	╠ Nivel
+║	║		║	╠ Más a menos
+║	║		║	╠ Menos a más
+║	║		║	╠ Tipo
+║	║		║	╠ Nación
+║	║		║	╠ Win Rate
+║	║		║	╚ Excelencia
+║	║		╚ Mostrar selector del tanque
+║	║			╠ DeX Style
+║	║			╠ Blanco
+║	║			╠ Azul
+║	║			╠ Amarillo
+║	║			╠ Rojo
+║	║			╠ Morado
+║	║			╚ Naranja
+║	╚ Resultados de batalla
+║		╠ Página de inicio
+║		║	╠ Puntuación personal
+║		║	╠ Puntuación del equipo
+║		║	╚ Informe detallado
+║		╠ Mostrar XP total
+║		╠ Mostrar XP total de tripulación
+║		╠ Mostrar beneficio neto
+║		╠ Mostrar tasa de impactos y daño (asistido/propio)
+║		╚ Mostrar eficiencia de batalla
+╠ Ajustes de batalla
+║	╠ Marcadores de partida
+║	║	╠ Ocultar panel inferior emergente tras la muerte
+║	║	╚ Formato del reloj en debug panel
+║	║		╠ 17:16
+║	║		╚ 17:16:18
+║	╠ Esquema de colores en batalla
+║	║	╠ Azul  | Rojo (Liga WG)
+║	║	╠ Azul  | Amarillo
+║	║	╠ Azul  | Naranja
+║	║	╚ Verde | Violeta
+║	╠ Escalas de clasificación
+║	║	╠ XVM
+║	║	╚ WotLabs (10 tonos)
+║	╠ Paneles & Ventanas (En Batalla)
+║	║	╠ Configuración por XVM Team
+║	║	╠ Configuración por Webium
+║	║	╠ Configuración por Solo 
+║	║	╠ Configuración por QuickBaby 
+║	║	╚ Configuración personalizada
+║	║		╠ Ventana de carga de batalla
+║	║		║	╠ Ocultar iconos de escuadrones
+║	║		║	╠ Ocultar nivel del tanque
+║	║		║	╠ Ocultar icono de tipo del tanque
+║	║		║	╠ Mostrar iconos de clanes
+║	║		║	╠ Mostrar banderas de países
+║	║		║	╠ Mostrar iconos de usuario XVM
+║	║		║	╚ Mostrar estadísticas
+║	║		╠ Ventana en batalla (TAB) 
+║	║		║	╠ Ocultar iconos de escuadrones
+║	║		║	╠ Ocultar iconos de escuadrones
+║	║		║	╠ Ocultar nivel del tanque
+║	║		║	╠ Ocultar icono de tipo del tanque
+║	║		║	╠ Mostrar iconos de clanes
+║	║		║	╠ Mostrar banderas de países
+║	║		║	╠ Mostrar iconos de usuario XVM
+║	║		║	╚ Mostrar estadísticas
+║	║		║		╠ Vehículo: H.Battles + Win ratio
+║	║		║		╠ Jugador: K.Battles + WN + Global Win ratio
+║	║		║		╠ Vehículo + Jugador
+║	║		║		╚ Jugador XVM
+║	║		╚ Personalización de paneles
+║	║			╠ Establecer por defecto
+║	║			║	╠ Corto
+║	║			║	╠ Mediano (Defecto)
+║	║			║	╠ Mediano 2
+║	║			║	╚ Largo
+║	║			╠  Transparencia
+║	║			║	╠ Baja 25%
+║	║			║	╠ Media 50%
+║	║			║	╠ Alta 75%
+║	║			║	╚ Transparente 100%
+║	║			╠ Panel Corto
+║	║			║	╠ Mostrar barra de vida
+║	║			║	╠ Fina
+║	║			║	╠ Gruesa
+║	║			║	╚ Mostrar banderas idioma
+║	║			╠ Panel Mediano
+║	║			║	╠ Mostrar barra de vida
+║	║			║	╠ Fina
+║	║			║	╠ Gruesa
+║	║			║	╚ Mostrar banderas idioma
+║	║			╠ Panel Mediano 2
+║	║			║	╠ Mostrar barra de vida
+║	║			║	╠ Fina
+║	║			║	╠ Gruesa
+║	║			║	╠ Mostrar banderas idioma
+║	║			║	╠ Mostrar
+║	║			║	╠ Tanque
+║	║			║	╚ Nombre de usuario
+║	║			╠ Panel Largo
+║	║			║	╠ Mostrar barra de vida
+║	║			║	╠ Fina
+║	║			║	╠ Gruesa
+║	║			║	╠ Mostrar banderas idioma
+║	║			║	╠ Mostrar
+║	║			║	║	╠ Nombre de usuario
+║	║			║	║	╠ Nombre de usuario + Clan
+║	║			║	║	╚ Tanque
+║	║			║	╚ Número de batallas
+║	║			║		╠ Kilo-batallas
+║	║			║		╚ Hecto-batallas
+║	║			╠ Alternativo (al pulsar tecla Alt)
+║	║			║	╠ Mostrar banderas idioma
+║	║			║	╚ Mostrar estadísticas
+║	║			║		╠ Usuario: K.Battles + WN + Global Win Ratio
+║	║			║		╠ Vehículo: T.Battles + Win ratio
+║	║			║		╚ Completas: Vehículo + Usuario
+║	║			╚ Complementos
+║	║				╠ Marcador de servicio XMQP
+║	║				╠ Iconos de clanes
+║	║				╠ Icono de aliado en apuros
+║	║				╚ Iconos de enemigo avistado
+║	║					╠ DeX logo
+║	║					╠ Bombillas
+║	║					╠ Barras
+║	║					╠ Flechas
+║	║					╠ Ojos
+║	║					╠ Wargaming
+║	║					╠ Bolas
+║	║					╚ Ocultar iconos para
+║	║						╠ Detectados
+║	║						╚ No detectados
+║	╠ Mensajes dinámicos de daños sobre los marcadores de objetivos [OTM] / Dynamic Damage Messages Over Target Markers [OTM]
+║	║	╠ Configuracion OTM: XVM Team
+║	║	╠ Configuracion OTM: 
+║	║	╠ Configuracion OTM: 
+║	║	╠ Configuracion OTM: 
+║	║	╠ Configuracion OTM: 
+║	║	╚ Configuración OTM personalizada
+║	║		╠ En Desarrollo
+║	║		╠ En Desarrollo
+║	║		╠ En Desarrollo
+║	║		╠ En Desarrollo
+║	║		╠ En Desarrollo
+║	║		╚ En Desarrollo
+║	╠ Minimapa
+║	║	╠ Formato del minimapa
+║	║	║	╠ Básico: líneas + iconos
+║	║	║	╚ Completo: lineas + iconos con nombre tier
+║	║	║		╠ Por defecto
+║	║	║		╠ Opciones WN en el minimapa
+║	║	║		║	╠ Solo WN
+║	║	║		║	╠ Solo tanque
+║	║	║		║	╚ Solo apodo
+║	║	║		╠ Mostrar el nombre del jugador
+║	║	║		║	╠ Aliados
+║	║	║		║	║	╠ Nombre
+║	║	║		║	║	╚ Nombre + vehículos
+║	║	║		║	╚ Enemigos
+║	║	║		║		╠ Nombre
+║	║	║		║		╚ Nombre + vehículos
+║	║	║		╚ Mostrar HP en el minimapa
+║	║	║			╠ Mostrar en aliados
+║	║	║			║	╠ Apodo
+║	║	║			║	╠ Tanque
+║	║	║			║	╠ Nivel
+║	║	║			║	╚ Apodo + Tanque
+║	║	║			╚ Mostrar en enemigos
+║	║	║				╠ Apodo
+║	║	║				╠ Tanque
+║	║	║				╠ Nivel
+║	║	║				╚ Apodo + Tanque
+║	║	╚ Complementos de minimapa
+║	║		╠ Última posición del enemigo detectado
+║	║		╠ Mostrar tanques destruidos
+║	║		╠ Indicador xSense
+║	║		╠ Indicador de tanque volteado
+║	║		╠ Mostrar líneas
+║	║		║	╠ Línea de dirección del vehículo
+║	║		║	║	╠ Larga
+║	║		║	║	╚ Corta
+║	║		║	╠ Línea de dirección de la cámara
+║	║		║	╠ Línea de dirección de puntos
+║	║		║	╠ Limitador de angulo max de cañon
+║	║		║	╠ Círculos autodetección
+║	║		║	║	╠ Circulo de 50m
+║	║		║	║	║	╠ Blanco
+║	║		║	║	║	╠ Verde
+║	║		║	║	║	╚ Amarillo
+║	║		║	║	╠ Circulo de alcance
+║	║		║	║	║	╠ Verde
+║	║		║	║	║	╠ Azul
+║	║		║	║	║	╚ Naranja
+║	║		║	║	╠ Alcance de deteccion máximo (445m)
+║	║		║	║	║	╠ Azul
+║	║		║	║	║	╠ Naranja
+║	║		║	║	║	╚ Cian
+║	║		║	║	╚ Círculo de dibujado
+║	║		║	║		╠ Rojo
+║	║		║	║		╠ Azul
+║	║		║	║		╚ Verde
+║	║		║	╚ Circulos adicionales
+║	║		║		╠ Alcance máximo de fuego para la artillería
+║	║		║		╚ Alcance máximo de disparo para la ametralladora
+║	║		╠ Zoom
+║	║		║	╠ Activar con la tecla
+║	║		║	║	╠ Insert
+║	║		║	║	╠ Bloq-Mayus
+║	║		║	║	╠ Control derecha
+║	║		║	║	╚ Control izquierda
+║	║		║	╚ Localización al pulsar
+║	║		║		╠ Centrado
+║	║		║		╚ Derecha
+║	║		║			╚ Tamaño
+║	║		║				╠ Pequeño
+║	║		║				╠ Mediano
+║	║		║				╚ Grande
+║	║		╚ Vista mejorada para artillerías
+║	║			╠ Estilo 1
+║	║			╠ Estilo 2
+║	║			╠ Estilo 3
+║	║			╠ Estilo 4
+║	║			╠ Estilo 5
+║	║			╠ Estilo 6
+║	║			╠ Estilo 7
+║	║			╠ Estilo 8
+║	║			╠ Estilo 9
+║	║			╚ Estilo 10
+║	╠ Registro de daños
+║	║	╠ Daños realizados
+║	║	║	╠ Nº de líneas
+║	║	║	║	╠ 0 (Solo encabezado)
+║	║	║	║	╠ 5
+║	║	║	║	╚ 10
+║	║	║	╚ Estilo
+║	║	║		╠ XVM (predeterminado)
+║	║	║		╠ Xft' Integrated
+║	║	║		╚ Personalizado
+║	║	║			╠ Resumen de daños
+║	║	║			╠ Título Impactos #0
+║	║	║			╠ Impactos
+║	║	║			╠ Daño total
+║	║	║			╠ Tasa de impactos
+║	║	║			╠ Último impacto
+║	║	║			╠ Detalle de daños
+║	║	║			╠ Nº de impactos
+║	║	║			╠ Daño total
+║	║	║			╠ Último impacto
+║	║	║			╠ Iconos de impacto/muerte
+║	║	║			╠ Nombre del tanque
+║	║	║			╚ Nombre del jugador
+║	║	╠ Daños recibidos ??
+║	║	║	╠ 
+║	║	║	╚ 
+║	║	╠ Contadores de eficiencia
+║	║	║	╠ Arriba 
+║	║	║	╠ Abajo
+
+
+
+
+
+
+
+
+
+
+
+
+
+╠ Compruebe actualizaciones del ModPack en el garaje
+
+
+╚
+╠
+║
