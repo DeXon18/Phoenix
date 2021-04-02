@@ -132,7 +132,7 @@ e[X]tended [V]isualization [M]od
 ║	╠ Escalas de clasificación
 ║	║	╠ XVM
 ║	║	╚ WotLabs (10 tonos)
-║	╠ Paneles & Ventanas (En Batalla)
+║	╠ Paneles & Ventanas de batalla
 ║	║	╠ Configuración por XVM Team
 ║	║	╠ Configuración por Webium
 ║	║	╠ Configuración por Solo
@@ -147,7 +147,6 @@ e[X]tended [V]isualization [M]od
 ║	║		║	╠ Mostrar iconos de usuario XVM
 ║	║		║	╚ Mostrar estadísticas
 ║	║		╠ Ventana en batalla (Al pulsar TAB)
-║	║		║	╠ Ocultar iconos de escuadrones
 ║	║		║	╠ Ocultar iconos de escuadrones
 ║	║		║	╠ Ocultar nivel del tanque
 ║	║		║	╠ Ocultar icono de tipo del tanque
