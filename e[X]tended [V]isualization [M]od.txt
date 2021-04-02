@@ -7,7 +7,7 @@ e[X]tended [V]isualization [M]od
 ║		╚ Tasa de refresco
 ║			╠ 2 segundos
 ║			╚ 5 segundos
-╠ Ajustes de la pantalla del garaje
+╠ Ajustes del hangar
 ║	╠ Restaurar el tipo de batalla al cambiar de servidor
 ║	╠ Mostrar ping del servidor
 ║	╠ Mostrar reloj
