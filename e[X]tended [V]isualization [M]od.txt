@@ -59,8 +59,8 @@ e[X]tended [V]isualization [M]od
 ║	║		╠ Vehículos
 ║	║		╚ Salón de la Fama
 ║	╠ Multi-tank carrusel
-║	║	╠ Ocultar comprar vehículo
-║	║	╠ Ocultar comprar un espacio
+║	║	╠ Ocultar la celda "Comprar vehículo"
+║	║	╠ Ocultar la celda "Comprar espacio"
 ║	║	╠ Ocultar recuperar vehículo
 ║	║	╠ Ocultar los tooltips de los tanques
 ║	║	╠ Ocultar estadísticas que aparece al pasar el ratón por encima
