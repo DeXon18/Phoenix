@@ -154,10 +154,9 @@ e[X]tended [V]isualization [M]od
 ║	║		║	╠ Mostrar banderas de países
 ║	║		║	╠ Mostrar iconos de usuario XVM
 ║	║		║	╚ Mostrar estadísticas
-║	║		║		╠ Vehículo: H.Battles + Win ratio
-║	║		║		╠ Jugador: K.Battles + WN + Global Win ratio
 ║	║		║		╠ Vehículo + Jugador
-║	║		║		╚ Jugador XVM
+║	║		║		╠ Vehículo: H.Battles + Win ratio
+║	║		║		╚ Jugador: K.Battles + WN + Global Win ratio
 ║	║		╚ Personalización de paneles
 ║	║			╠ Establecer por defecto
 ║	║			║	╠ Corto
