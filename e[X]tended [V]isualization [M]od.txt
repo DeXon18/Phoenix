@@ -7,7 +7,6 @@ e[X]tended [V]isualization [M]od
 ║		╚ Tasa de refresco
 ║			╠ 2 segundos
 ║			╚ 5 segundos
-╠ Ajustes del hangar
 ║	╠ Restaurar el tipo de batalla al cambiar de servidor
 ║	╠ Mostrar ping del servidor
 ║	╠ Mostrar reloj
@@ -32,7 +31,6 @@ e[X]tended [V]isualization [M]od
 ║	║	╠ Ocultar tienda premium
 ║	║	╠ Ocultar botón "Programa de Referidos"
 ║	║	╠ Ocultar chat "General"
-║	║	╠ Ocultar promo tanque
 ║	║	╠ Ocultar batalla por rankings
 ║	║	╠ Ocultar ventana de emblemas
 ║	║	╠ Ocultar banner de eventos varios
@@ -93,8 +91,8 @@ e[X]tended [V]isualization [M]od
 ║	║		╠ Ordenar por
 ║	║		║	╠ Por defecto
 ║	║		║	╠ Nivel
-║	║		║	╠ Más a menos
-║	║		║	╠ Menos a más
+║	║		║	║	╠ Más a menos
+║	║		║	║	╚ Menos a más
 ║	║		║	╠ Tipo
 ║	║		║	╠ Nación
 ║	║		║	╠ Win Rate
