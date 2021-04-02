@@ -123,10 +123,7 @@ e[X]tended [V]isualization [M]od
 ║	║	╠ Ocultar panel emergente con la placa del enemigo
 ║	║	╠ Desactivar las consejos de batalla.
 ║	║	╠ Desactivar cambio de jugadores en el minimapa después de la muerte.
-║	║	╠ Ocultar la cantidad de vivos en lugar de muertos.
-║	║	╚ Formato del reloj en debug panel
-║	║		╠ 17:16
-║	║		╚ 17:16:18
+║	║	╚ Ocultar la cantidad de vivos en lugar de muertos. 
 ║	╠ Esquema de colores en batalla
 ║	║	╠ Azul  | Rojo (Liga WG)
 ║	║	╠ Azul  | Amarillo
