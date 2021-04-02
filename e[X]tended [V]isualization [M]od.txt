@@ -120,6 +120,8 @@ e[X]tended [V]isualization [M]od
 ╠ Ajustes de batalla
 ║	╠ Marcadores de partida
 ║	║	╠ Ocultar panel inferior emergente tras la muerte
+║	║	╠ Ocultar panel emergente con la placa del enemigo
+║	║	╠ Desactivar las consejos de batalla.
 ║	║	╚ Formato del reloj en debug panel
 ║	║		╠ 17:16
 ║	║		╚ 17:16:18
