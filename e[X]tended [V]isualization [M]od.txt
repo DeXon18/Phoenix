@@ -121,9 +121,9 @@ e[X]tended [V]isualization [M]od
 ║	╠ Marcadores de partida
 ║	║	╠ Ocultar panel inferior emergente tras la muerte
 ║	║	╠ Ocultar panel emergente con la placa del enemigo
-║	║	╠ Desactivar las consejos de batalla.
-║	║	╠ Desactivar cambio de jugadores en el minimapa después de la muerte.
-║	║	╚ Ocultar la cantidad de vivos en lugar de muertos. 
+║	║	╠ Desactivar las consejos de batalla
+║	║	╠ Desactivar cambio de jugadores en el minimapa después de la muerte
+║	║	╚ Ocultar la cantidad de vivos en lugar de muertos
 ║	╠ Esquema de colores en batalla
 ║	║	╠ Azul  | Rojo (Liga WG)
 ║	║	╠ Azul  | Amarillo
