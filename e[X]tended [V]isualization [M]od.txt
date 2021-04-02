@@ -3,10 +3,10 @@ e[X]tended [V]isualization [M]od
 ╠ Ajustes de la pantalla de logueo
 ║	╠ Login automático
 ║	╠ Mostrar carga de los servidores
-║	╚ Mostrar el ping del servidor
-║		╚ Tasa de refresco
-║			╠ 2 segundos
-║			╚ 5 segundos
+║	╠ Mostrar el ping del servidor
+║	║	╚ Tasa de refresco
+║	║		╠ 2 segundos
+║	║		╚ 5 segundos
 ║	╠ Restaurar el tipo de batalla al cambiar de servidor
 ║	╠ Mostrar ping del servidor
 ║	╠ Mostrar reloj
@@ -31,6 +31,7 @@ e[X]tended [V]isualization [M]od
 ║	║	╠ Ocultar tienda premium
 ║	║	╠ Ocultar botón "Programa de Referidos"
 ║	║	╠ Ocultar chat "General"
+║	║	╠ Ocultar promo tanque
 ║	║	╠ Ocultar batalla por rankings
 ║	║	╠ Ocultar ventana de emblemas
 ║	║	╠ Ocultar banner de eventos varios
