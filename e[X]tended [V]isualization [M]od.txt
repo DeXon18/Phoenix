@@ -32,7 +32,7 @@ e[X]tended [V]isualization [M]od
 ║	║	╠ Ocultar tienda premium
 ║	║	╠ Ocultar botón "Programa de Referidos"
 ║	║	╠ Ocultar chat "General"
-║	║	╠ Ocultar tanque premium
+║	║	╠ Ocultar promo tanque
 ║	║	╠ Ocultar batalla por rankings
 ║	║	╠ Ocultar ventana de emblemas
 ║	║	╠ Ocultar banner de eventos varios
