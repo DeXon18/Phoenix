@@ -115,7 +115,8 @@ e[X]tended [V]isualization [M]od
 ║		╠ Mostrar XP total de tripulación
 ║		╠ Mostrar beneficio neto
 ║		╠ Mostrar tasa de impactos y daño (asistido/propio)
-║		╚ Mostrar eficiencia de batalla
+║		╠ Mostrar eficiencia de batalla
+║		╚ Bonificación gestionable a la experiencia
 ╠ Ajustes de batalla
 ║	╠ Marcadores de partida
 ║	║	╠ Ocultar panel inferior emergente tras la muerte
