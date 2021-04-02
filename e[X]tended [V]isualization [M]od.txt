@@ -197,7 +197,10 @@ e[X]tended [V]isualization [M]od
 ║	║			║	║	╚ Tanque
 ║	║			║	╚ Número de batallas
 ║	║			║		╠ Kilo-batallas
-║	║			║		╠  Hecto-batallas
+║	║			║		╚ Hecto-batallas
+║	║			╠ Alternativo (al pulsar tecla Alt)
+║	║			║	╠ Mostrar banderas idioma
+║	║			║	╚ Mostrar estadísticas
 ║	║			║		╠ Usuario: K.Battles + WN + Global Win Ratio
 ║	║			║		╠ Vehículo: T.Battles + Win ratio
 ║	║			║		╚ Completas: Vehículo + Usuario
