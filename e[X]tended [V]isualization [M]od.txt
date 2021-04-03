@@ -208,17 +208,17 @@ e[X]tended [V]isualization [M]od
 ║	║				╠ Marcador de servicio XMQP
 ║	║				╠ Iconos de clanes
 ║	║				╠ Icono de aliado en apuros
-║	║				╚ Iconos de enemigo avistado
-║	║					╠ DeX logo
-║	║					╠ Bombillas
-║	║					╠ Barras
-║	║					╠ Flechas
-║	║					╠ Ojos
-║	║					╠ Wargaming
-║	║					╠ Bolas
-║	║					╚ Ocultar iconos para
-║	║						╠ Detectados
-║	║						╚ No detectados
+║	║				╠ Iconos de enemigo avistado
+║	║				║	╠ DeX logo
+║	║				║	╠ Bombillas
+║	║				║	╠ Barras
+║	║				║	╠ Flechas
+║	║				║	╠ Ojos
+║	║				║	╠ Wargaming
+║	║				║	╚ Bolas
+║	║				╚ Ocultar iconos para
+║	║					╠ Detectados
+║	║					╚ No detectados
 ║	╠ Mensajes dinámicos de daños sobre los marcadores de objetivos [OTM] / Dynamic Damage Messages Over Target Markers [OTM]
 ║	║	╠ Configuracion OTM: XVM Team
 ║	║	╠ Configuracion OTM: 
